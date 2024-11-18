@@ -40,7 +40,7 @@ Check out my personal portfolio to see my projects and skills in action:
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://do.linkedin.com/in/alex-manuel-gomez-salazar-901389140)  
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:licalexgomezsalazar@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=web)](https://lic-alexgomez.github.io/portafolios/)  
 
 ---
