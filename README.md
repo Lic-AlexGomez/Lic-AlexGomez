@@ -34,9 +34,9 @@ Passionate about building scalable web and mobile applications, solving complex 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Gomez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://do.linkedin.com/in/alex-manuel-gomez-salazar-901389140))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Gomez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://do.linkedin.com/in/alex-manuel-gomez-salazar-901389140))  
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:licalexgomezsalazar@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=flat-square&logo=web)]([https://your-portfolio-link.com](https://lic-alexgomez.github.io/portafolios/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=flat-square&logo=web)]((https://lic-alexgomez.github.io/portafolios/))  
 
 ---
 
