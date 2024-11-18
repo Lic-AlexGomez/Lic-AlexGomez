@@ -53,3 +53,4 @@ Check out my personal portfolio to see my projects and skills in action:
   <img src="https://raw.githubusercontent.com/lic-alexgomez/lic-alexgomez/output/snake.svg" alt="Snake animation" />
 </div>
 
+
