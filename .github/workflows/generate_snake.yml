@@ -23,6 +23,5 @@ jobs:
       - name: Push Snake Animation to GitHub
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            output: snake.svg  # Cambia el archivo para estar directamente en la raíz
