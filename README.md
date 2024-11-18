@@ -4,7 +4,11 @@
 Passionate about building scalable web and mobile applications, solving complex problems, and continuously learning new technologies. Let's create something amazing together!
 
 ---
+###
 
+<img align="right" height="114" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+
+###
 ### 🛠️ Tech Stack
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
