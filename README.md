@@ -4,7 +4,6 @@
 Passionate about building scalable web and mobile applications, solving complex problems, and continuously learning new technologies. Let's create something amazing together!
 
 ---
-<img align="right" height="114" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
 ### 🛠️ Tech Stack
 **Languages & Frameworks**  
@@ -33,10 +32,16 @@ Passionate about building scalable web and mobile applications, solving complex 
 
 ---
 
+### 🌐 Portfolio
+Check out my personal portfolio to see my projects and skills in action:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=flat-square&logo=web)](https://lic-alexgomez.github.io/portafolios/)
+
+---
+
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Gomez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://do.linkedin.com/in/alex-manuel-gomez-salazar-901389140))  
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:licalexgomezsalazar@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=flat-square&logo=web)]((https://lic-alexgomez.github.io/portafolios/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://do.linkedin.com/in/alex-manuel-gomez-salazar-901389140)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=web)](https://lic-alexgomez.github.io/portafolios/)  
 
 ---
 
