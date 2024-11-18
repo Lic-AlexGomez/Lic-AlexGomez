@@ -51,6 +51,5 @@ Check out my personal portfolio to see my projects and skills in action:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lic-alexgomez/lic-alexgomez/output/snake.svg" alt="Snake animation" />
-  <br>
-  <img src="https://profile-counter.glitch.me/lic-alexgomez/count.svg?" />
 </div>
+
