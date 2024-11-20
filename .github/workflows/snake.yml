@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Lic-AlexGomez
-          svg_out_path: dist/github-contribution-grid-snake2.svg
+          svg_out_path: dist/github-contribution-grid-snake2.gif
           snake_color: 'green' # Puedes cambiar el color si deseas un color diferente
 
       # Publicar en GitHub Pages
