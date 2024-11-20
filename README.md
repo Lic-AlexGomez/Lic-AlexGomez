@@ -49,8 +49,5 @@ Check out my personal portfolio to see my projects and skills in action:
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lic-alexgomez/lic-alexgomez/output/snake.svg" alt="Snake animation" />
-</div>
-
+![snake gif](https://github.com/Lic-alexgomez/Lic-alexgomez/blob/output/github-contribution-grid-snake.gif)
 
