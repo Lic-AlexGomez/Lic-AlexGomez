@@ -19,9 +19,9 @@ Passionate about building scalable web and mobile applications, solving complex 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Flash](https://img.shields.io/badge/Flash-FF1C1C?style=flat-square&logo=adobe-flash&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+
 
 
 **Tools & Platforms**  
@@ -30,7 +30,11 @@ Passionate about building scalable web and mobile applications, solving complex 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-
+![Flux](https://img.shields.io/badge/Flux-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Flash](https://img.shields.io/badge/Flash-FF1C1C?style=flat-square&logo=adobe-flash&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ---
 
 ### 🌟 GitHub Stats
